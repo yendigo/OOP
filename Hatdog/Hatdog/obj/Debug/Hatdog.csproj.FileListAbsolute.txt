@@ -1,0 +1,8 @@
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\bin\Debug\Hatdog.exe.config
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\bin\Debug\Hatdog.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\bin\Debug\Hatdog.pdb
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\obj\Debug\Hatdog.csprojResolveAssemblyReference.cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\obj\Debug\Hatdog.MainForm.resources
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\obj\Debug\Hatdog.csproj.GenerateResource.Cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\obj\Debug\Hatdog.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hatdog\Hatdog\obj\Debug\Hatdog.pdb

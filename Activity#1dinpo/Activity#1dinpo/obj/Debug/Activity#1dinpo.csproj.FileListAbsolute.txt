@@ -1,0 +1,9 @@
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\bin\Debug\Activity#1dinpo.exe.config
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\bin\Debug\Activity#1dinpo.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\bin\Debug\Activity#1dinpo.pdb
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\obj\Debug\Activity_1dinpo.MainForm.resources
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\obj\Debug\Activity#1dinpo.csproj.GenerateResource.Cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\obj\Debug\Activity#1dinpo.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\obj\Debug\Activity#1dinpo.pdb
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\obj\Debug\Activity#1dinpo.csprojAssemblyReference.cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1dinpo\Activity#1dinpo\obj\Debug\Activity#1dinpo.csproj.CoreCompileInputs.cache

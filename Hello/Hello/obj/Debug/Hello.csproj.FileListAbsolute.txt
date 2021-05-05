@@ -1,0 +1,8 @@
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\obj\Debug\Hello.MainForm.resources
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache

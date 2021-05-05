@@ -1,0 +1,8 @@
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\obj\Debug\SimpleAdPo.csprojResolveAssemblyReference.cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\obj\Debug\SimpleAdPo.MainForm.resources
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\obj\Debug\SimpleAdPo.csproj.GenerateResource.Cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\bin\Debug\SimpleAdPo.exe.config
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\bin\Debug\SimpleAdPo.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\bin\Debug\SimpleAdPo.pdb
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\obj\Debug\SimpleAdPo.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\SimpleAdPo\SimpleAdPo\obj\Debug\SimpleAdPo.pdb

@@ -1,0 +1,8 @@
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\bin\Debug\Activity#1po.exe.config
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\bin\Debug\Activity#1po.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\bin\Debug\Activity#1po.pdb
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\obj\Debug\Activity#1po.csprojResolveAssemblyReference.cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\obj\Debug\Activity_1po.MainForm.resources
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\obj\Debug\Activity#1po.csproj.GenerateResource.Cache
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\obj\Debug\Activity#1po.exe
+C:\Users\SANGGALANG\OneDrive\Documents\SharpDevelop Projects\Activity#1po\Activity#1po\obj\Debug\Activity#1po.pdb
