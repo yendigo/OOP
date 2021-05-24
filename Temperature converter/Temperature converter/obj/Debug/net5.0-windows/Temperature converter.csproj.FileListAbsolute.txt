@@ -1,0 +1,19 @@
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\bin\Debug\net5.0-windows\Temperature converter.exe
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\bin\Debug\net5.0-windows\Temperature converter.deps.json
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\bin\Debug\net5.0-windows\Temperature converter.runtimeconfig.json
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\bin\Debug\net5.0-windows\Temperature converter.runtimeconfig.dev.json
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\bin\Debug\net5.0-windows\Temperature converter.dll
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\bin\Debug\net5.0-windows\ref\Temperature converter.dll
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\bin\Debug\net5.0-windows\Temperature converter.pdb
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.csprojAssemblyReference.cache
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature_converter.Form1.resources
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.csproj.GenerateResource.cache
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.AssemblyInfoInputs.cache
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.AssemblyInfo.cs
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.dll
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\ref\Temperature converter.dll
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.pdb
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature converter.genruntimeconfig.cache
+C:\Users\SANGGALANG\source\repos\Temperature converter\Temperature converter\obj\Debug\net5.0-windows\Temperature_converter.Properties.Resources.resources
