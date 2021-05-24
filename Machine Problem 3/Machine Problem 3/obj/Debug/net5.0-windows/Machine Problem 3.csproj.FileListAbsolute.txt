@@ -1,0 +1,19 @@
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\bin\Debug\net5.0-windows\Machine Problem 3.exe
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\bin\Debug\net5.0-windows\Machine Problem 3.deps.json
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\bin\Debug\net5.0-windows\Machine Problem 3.runtimeconfig.json
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\bin\Debug\net5.0-windows\Machine Problem 3.runtimeconfig.dev.json
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\bin\Debug\net5.0-windows\Machine Problem 3.dll
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\bin\Debug\net5.0-windows\ref\Machine Problem 3.dll
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\bin\Debug\net5.0-windows\Machine Problem 3.pdb
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.csprojAssemblyReference.cache
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine_Problem_3.Form1.resources
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.csproj.GenerateResource.cache
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.AssemblyInfoInputs.cache
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.AssemblyInfo.cs
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.csproj.CoreCompileInputs.cache
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.dll
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\ref\Machine Problem 3.dll
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.pdb
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine Problem 3.genruntimeconfig.cache
+C:\Users\SANGGALANG\source\repos\Machine Problem 3\Machine Problem 3\obj\Debug\net5.0-windows\Machine_Problem_3.Form2.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Machine Problem 3/1.0.0": {
+        "runtime": {
+          "Machine Problem 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Machine Problem 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
