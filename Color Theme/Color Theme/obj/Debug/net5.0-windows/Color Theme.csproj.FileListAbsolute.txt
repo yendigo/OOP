@@ -1,0 +1,19 @@
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\bin\Debug\net5.0-windows\Color Theme.exe
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\bin\Debug\net5.0-windows\Color Theme.deps.json
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\bin\Debug\net5.0-windows\Color Theme.runtimeconfig.json
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\bin\Debug\net5.0-windows\Color Theme.runtimeconfig.dev.json
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\bin\Debug\net5.0-windows\Color Theme.dll
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\bin\Debug\net5.0-windows\ref\Color Theme.dll
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\bin\Debug\net5.0-windows\Color Theme.pdb
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.csprojAssemblyReference.cache
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color_Theme.Form1.resources
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.csproj.GenerateResource.cache
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.AssemblyInfoInputs.cache
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.AssemblyInfo.cs
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.csproj.CoreCompileInputs.cache
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.dll
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\ref\Color Theme.dll
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.pdb
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color Theme.genruntimeconfig.cache
+C:\Users\SANGGALANG\source\repos\Color Theme\Color Theme\obj\Debug\net5.0-windows\Color_Theme.Properties.Resources.resources

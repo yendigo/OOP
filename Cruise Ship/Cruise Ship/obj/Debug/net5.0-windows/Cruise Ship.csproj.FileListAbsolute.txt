@@ -1,0 +1,19 @@
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\bin\Debug\net5.0-windows\Cruise Ship.exe
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\bin\Debug\net5.0-windows\Cruise Ship.deps.json
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\bin\Debug\net5.0-windows\Cruise Ship.runtimeconfig.json
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\bin\Debug\net5.0-windows\Cruise Ship.runtimeconfig.dev.json
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\bin\Debug\net5.0-windows\Cruise Ship.dll
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\bin\Debug\net5.0-windows\ref\Cruise Ship.dll
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\bin\Debug\net5.0-windows\Cruise Ship.pdb
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.csprojAssemblyReference.cache
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise_Ship.Form1.resources
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.csproj.GenerateResource.cache
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.AssemblyInfoInputs.cache
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.AssemblyInfo.cs
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.csproj.CoreCompileInputs.cache
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.dll
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\ref\Cruise Ship.dll
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.pdb
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise Ship.genruntimeconfig.cache
+C:\Users\SANGGALANG\source\repos\Cruise Ship\Cruise Ship\obj\Debug\net5.0-windows\Cruise_Ship.Properties.Resources.resources
